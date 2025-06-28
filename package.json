@@ -1,0 +1,19 @@
+{
+  "name": "ipsd-website",
+  "version": "1.0.0",
+  "description": "Institute of Psychological Skill Development - Official Website",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "install-all": "npm install && cd server && npm install && cd ../client && npm install"
+  },
+  "keywords": ["psychology", "skill-development", "education", "training"],
+  "author": "IPSD Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+} 
