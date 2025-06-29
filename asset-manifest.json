@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ipsd-web/static/css/main.8129027a.css",
+    "main.js": "/ipsd-web/static/js/main.bc3a37ea.js",
+    "index.html": "/ipsd-web/index.html",
+    "main.8129027a.css.map": "/ipsd-web/static/css/main.8129027a.css.map",
+    "main.bc3a37ea.js.map": "/ipsd-web/static/js/main.bc3a37ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8129027a.css",
+    "static/js/main.bc3a37ea.js"
+  ]
+}
