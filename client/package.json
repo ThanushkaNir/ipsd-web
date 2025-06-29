@@ -2,7 +2,7 @@
   "name": "ipsd-client",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://thanushkanir.github.io/ipsd-web",
+  "homepage": "https://thanushkanir.github.io/ipsd-web/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
